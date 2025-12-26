@@ -15,3 +15,6 @@ competitor analysis, internal operations data, leads qualification and automatio
 - Dashboards
 
 My core drives have always been **Business Outcomes**, **Internal Process Optimization**  and <br> extracting **Insights for Growth** & offering **Data driven Strategy**.
+
+### My recent obsession :bulb:
+Lead qualification tool for presale handling.
