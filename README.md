@@ -3,7 +3,7 @@
 
 If numbers :1234: hiding secrets that are invisible to casual inspection :eyes: facinate you then i am sure we can vibe!
 
-Have been helping businesses on: :computer:  
+:computer: Have been helping businesses on:   
 Marketing data, User behavior analysis, Traffic data, Sales data, Product analysis,  
 competitor analysis, internal operations data, leads qualification and automation. 
 
