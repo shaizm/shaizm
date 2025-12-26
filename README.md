@@ -1,9 +1,11 @@
-## Introducing myself 👋
-# 👋 Hey, I'm Shaiz
+# 👋 Hey, I am the data guy! You can call me -'Shaiz'
 
-I am the data guy! 
 If numbers hiding secrets that are invisible to casual inspection facinate you then i am sure we can vibe!
-So far worked on **marketing data, user behavior analysis, traffic data, sales data, product analysis, competitor analysis, internal operations data, leads qualification and automation** but hungry for more so i keep looking for new stuff. 
+
+So far worked on **marketing data, user behavior analysis, traffic data, sales data, product analysis, 
+competitor analysis, internal operations data, leads qualification and automation** but hungry for more so
+i keep looking for new stuff. 
+
 While my professional experiences has mended me in reporting, modeling, querying, documenting & dashbaords my motive has always been into business outcomes, internal processes optimization  and generating insights for growth.
 I like asking questions most dashboards never answer — then building systems to fix what the data reveals.
 
