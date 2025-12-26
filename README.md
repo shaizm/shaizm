@@ -1,12 +1,19 @@
-# 👋 Hey, I am the data guy! You can call me -'Shaiz'
+## Hi, I am the data guy. 
+### You can call me Shaiz 👋
 
-If numbers hiding secrets that are invisible to casual inspection facinate you then i am sure we can vibe!
+If numbers :1234: hiding secrets that are invisible to casual inspection :eyes: facinate you then i am sure we can vibe!
 
-So far worked on **marketing data, user behavior analysis, traffic data, sales data, product analysis, 
-competitor analysis, internal operations data, leads qualification and automation** but hungry for more so
-i keep looking for new stuff. 
+Have been helping businesses on: :computer:  
+Marketing data, User behavior analysis, Traffic data, Sales data, Product analysis,  
+competitor analysis, internal operations data, leads qualification and automation. 
 
-While my professional experiences has mended me in reporting, modeling, querying, documenting & dashbaords my motive has always been into business outcomes, internal processes optimization  and generating insights for growth.
+:bar_chart: While my professional experiences has mended me in:
+- &emsp; &emsp; reporting
+- &emsp; &emsp; modeling,
+- &emsp; &emsp; querying,
+- &emsp; &emsp; documenting &
+- &emsp; &emsp; dashbaords  
+my motive has always been into business outcomes, internal processes optimization  and generating insights for growth.
 I like asking questions most dashboards never answer — then building systems to fix what the data reveals.
 
 ---
