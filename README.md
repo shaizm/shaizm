@@ -1,6 +1,6 @@
 ## Hi, I am the data guy. 
-### You can call me Shaiz 👋
 
+I'm Shaiz 👋
 If numbers :1234: hiding secrets that are invisible to casual inspection :eyes: facinate you then i am sure we can vibe!
 
 :computer: Have been helping businesses on:   
