@@ -17,4 +17,4 @@ competitor analysis, internal operations data, leads qualification and automatio
 My core drives have always been **Business Outcomes**, **Internal Process Optimization**  and <br> extracting **Insights for Growth** & offering **Data driven Strategy**.
 
 ### My recent obsession :bulb:
-Lead qualification tool for presale handling.
+Lead qualification tool for presale handling. [Lead Qualifier](https://github.com/shaizm/Lead_Qualifier_Pre-sales/tree/main?tab=readme-ov-file#lead-qualifier---a-virtual-pre-sales-team)
