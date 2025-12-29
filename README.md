@@ -1,5 +1,5 @@
 ## Hi,👋  
-I am the data guy, Shaiz..
+I am the data guy, Shaiz.
 
 If numbers :1234: hiding secrets that are invisible to casual inspection :eyes: facinate you then i am sure we can vibe!
 
