@@ -1,7 +1,7 @@
 ## Hi,👋  
 I am the data guy, Shaiz.
 
-Numbers :1234: hiding secrets from casual inspection :eyes: facinate you too, then i am sure we can vibe! 
+Numbers :1234: hiding secrets from casual inspection :eyes: facinate you too, then i am sure we can vibe!
 
 :computer: Have been helping businesses on:   
 Marketing data, User behavior analysis, Traffic data, Sales data, Product analysis,  
