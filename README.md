@@ -6,7 +6,7 @@ Numbers :1234: hiding secrets from casual inspection :eyes: facinate you too, th
 :computer: Have been helping businesses on: 
 Marketing data, User behavior analysis, Traffic data, Sales data, Product analysis,  
 competitor analysis, internal operations data, leads qualification and automation.
-
+ 
 :bar_chart: While my professional experiences has mended me in: 
 - Reporting
 - Modeling
