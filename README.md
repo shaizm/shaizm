@@ -10,7 +10,7 @@ competitor analysis, internal operations data, leads qualification and automatio
 :bar_chart: While my professional experiences has mended me in: 
 - Reporting
 - Modeling
-- Querying
+- Querying 
 - Documenting &
 - Dashboards
 
